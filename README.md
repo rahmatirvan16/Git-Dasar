@@ -1,4 +1,4 @@
 ### Git
-Git Dasar
-Git Branching
-Git Remote
+- Git Dasar
+- Git Branching
+- Git Remote
