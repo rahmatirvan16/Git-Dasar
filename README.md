@@ -1,4 +1,15 @@
-### Git
-- Git Dasar
-- Git Branching
-- Git Remote
+### Git Dasar
+- Menambah File
+- Mengubah File
+- Menghapus File
+- Membatalkan Perubahan
+- Commit Log
+- Compare Commit
+- Rename File
+- Reset Commit
+- Amend Commit
+- Versi Sebelumnya
+- Revert Commit
+- Ignore
+- Blame
+- Alias
